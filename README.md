@@ -18,7 +18,7 @@ Sales Leads Saver is a powerful Chrome extension designed to streamline your lea
 
 Key Features:
 
-Capture lead information: Quickly input and save lead details such as name, email, company, and more.
+Capture lead information: Quickly input and save lead details such as the site address from site bar and also name, email, company, and more.
 Internal storage: Utilize Chrome's internal storage capabilities to securely store leads directly within your browser.
 User-friendly interface: Intuitive UI design makes it easy to input and manage lead data with just a few clicks.
 Seamless integration: Seamlessly integrate Sales Leads Saver into your daily workflow for efficient lead management.
@@ -30,7 +30,7 @@ Fill in the relevant lead information and click "Save" to store the lead in your
 Access and manage your saved leads anytime, right from your browser.
 Empower your sales team and supercharge your lead generation efforts with Sales Leads Saver!
 
-Feel free to customize the description and feature highlights based on the specifics of your extension and its target audience. Make sure to communicate the value proposition clearly and concisely to attract users to install your extension.
+
 
 
 
